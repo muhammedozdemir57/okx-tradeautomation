@@ -4,10 +4,10 @@
 This project is a **Telegram trading bot** that interacts with the OKX API. It listens for messages in a specific Telegram channel, categorizes them, and executes trades on the OKX platform based on those messages.
 
 ## 📌 Table of Contents
-1. [Project Overview](#project-overview)
-2. [Features](#Features)
-3. [Requirements](#requirements)
-4. [Setup Instructions](#setup-instructions)
+1. [Project Overview](#📌 Project Overview)
+2. [Features](#📌 Features)
+3. [Requirements](#🛠 Requirements)
+4. [Setup Instructions](#⚙️ Setup Instructions)
 5. [Environment Variables](#environment-variables)
 6. [Usage Example](#usage-example)
 7. [Deploying on AWS EC2](#deploying-on-aws-ec2)
@@ -19,7 +19,7 @@ This project is a **Telegram trading bot** that interacts with the OKX API. It l
 ## 📌 Project Overview
 This bot integrates with the **OKX exchange API** to automate trading based on signals received from a Telegram channel. It categorizes messages and executes **long/short trades** based on specific keywords.
 
-## Features
+## 📌 Features
 - ✅ Monitors a specified Telegram channel for **trading signals**  
 - ✅ Categorizes messages (`🟣`, `🔴`, `🟡`, `🟢`) for different **trade types**  
 - ✅ Executes trades using the **OKX API** (long/short positions)  
