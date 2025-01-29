@@ -1,0 +1,4 @@
+telethon
+okx
+dotenv
+asyncio
